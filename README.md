@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Animesh basak
 - 👀 I’m interested in Web Design | Machine Learning | Python | Database
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Database & Deep Learning Authors
-- 📫 How to reach me ... Contact with me on LinkeDln - https://www.linkedin.com/in/animesh-basak-225100214/
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Database & Data Science
+- 📫 How to reach me ... Contact me on LinkedIn - https://www.linkedin.com/in/animeshbasakcse/
 
 <!---
 Animeshbasak2361/Animeshbasak2361 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
